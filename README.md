@@ -1,6 +1,6 @@
 # Tarea Torre Ajedrez
 ## Profesor: Andrés Rubio del Río
-## Alumno: Miguel Molina MOlina
+## Alumno: Miguel Molina Molina
 
 La tarea va a consistir en modelar el movimiento de una torre de ajedrez por el tablero de dicho juego.
 <div align="center">
